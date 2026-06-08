@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Junior Fullstack Developer with hands-on experience in C#, ASP.NET, React and AI API integration. Over 400 hours of remote internship at CINEL Lisbon and 1 year of experience in technical evaluation of 200+ code projects. Currently pursuing a Professional Higher Education degree in Software Development at ISTEC Lisbon.
+Junior Fullstack Developer with hands-on experience in C#, ASP.NET, React and AI API integration. Over 600 hours of remote internship at CINEL Lisbon and 1 year of experience in technical evaluation of 200+ code projects. Currently pursuing a Professional Higher Education degree in Software Development at ISTEC Lisbon.
 
 🔗 **[Portfolio](https://portfolio-kennedy-silva.vercel.app/)** · **[LinkedIn](https://www.linkedin.com/in/kennedy-silva-3b627b369)**
 
@@ -54,12 +54,12 @@ Personal website showcasing projects and skills, deployed on Vercel.
 
 ## 🎯 Experience
 
-### Technical Project Evaluator · Online Training Company · 1 year
+### Technical Project Evaluator · Number Seven – Engineering & Systems, Lda · 1 year
 - Analyzed and evaluated **200+ student projects** in C# and C++
 - Created assessment spreadsheets and verified code quality and compliance
 - Produced detailed evaluation reports for each project reviewed
 
-### Development Intern · CINEL Lisbon · 400+ hours · Remote
+### Development Intern · CINEL Lisbon · 600 hours · Remote
 - Built complete web management application (SuperShop) with ASP.NET
 - Developed REST APIs (AlunoApi) and client applications in React
 - Managed and optimized databases with SQL Server
