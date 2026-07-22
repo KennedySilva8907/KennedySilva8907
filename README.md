@@ -1,79 +1,39 @@
-# 👋 Hello! I'm Kennedy Silva
+# Kennedy Silva
 
-## 🚀 About Me
+Fullstack developer based in Lisbon. I work mostly in C# and ASP.NET on the backend and React on the frontend, and I'm currently studying software development at ISTEC.
 
-Junior Fullstack Developer with hands-on experience in C#, ASP.NET, React and AI API integration. Over 600 hours of remote internship at CINEL Lisbon and 1 year of experience in technical evaluation of 200+ code projects. Currently pursuing a Professional Higher Education degree in Software Development at ISTEC Lisbon.
+Before that I did a 600-hour remote internship at CINEL, building a web management app in ASP.NET and a REST API with a React client on top of it. I also spent a year at Number Seven reviewing C# and C++ projects submitted by students. Reading a couple hundred codebases written by other people taught me more about naming things and structuring a project than any tutorial had.
 
-🔗 **[Portfolio](https://portfolio-kennedy-silva.vercel.app/)** · **[LinkedIn](https://www.linkedin.com/in/kennedy-silva-3b627b369)**
+## Projects
 
-## 💻 Tech Stack
+**[Bus Lisbon](https://buslisbon.vercel.app/)**
+Live tracking for Carris Metropolitana buses. <!-- TROCA ESTA FRASE: porque e que o fizeste? o problema real que te chateava -->
+It reads from the official API and caches responses through Redis so the upstream isn't hit on every map pan. Installable as a PWA, since the whole point is using it at the bus stop.
 
-### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-1f2328?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-1f2328?style=flat-square&logo=typescript&logoColor=3178C6)
+![Vite](https://img.shields.io/badge/Vite-1f2328?style=flat-square&logo=vite&logoColor=646CFF)
+![Leaflet](https://img.shields.io/badge/Leaflet-1f2328?style=flat-square&logo=leaflet&logoColor=199900)
+![Redis](https://img.shields.io/badge/Redis-1f2328?style=flat-square&logo=redis&logoColor=FF4438)
 
-### Frameworks & Web
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**[GastroAI](https://gastro-ai-pap.vercel.app/)**
+A cooking site with recipes from ten countries, a Gemini chatbot, and a challenge system with four difficulty levels. This was my final secondary school project. The part I'd point at is the fallback layer. <!-- TROCA: o que te levou a construir o fallback? a API falhou-te em que momento? -->
 
-### Database & Backend
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1f2328?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-1f2328?style=flat-square&logo=googlegemini&logoColor=8E75B2)
+![GSAP](https://img.shields.io/badge/GSAP-1f2328?style=flat-square&logo=greensock&logoColor=88CE02)
+![HTML5](https://img.shields.io/badge/HTML5-1f2328?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-1f2328?style=flat-square&logo=css&logoColor=663399)
 
-### Tools
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+**[Portfolio](https://portfolio-kennedy-silva.vercel.app/)**
+Where the rest of the work lives, with screenshots.
 
-## 🚀 Featured Projects
+![React](https://img.shields.io/badge/React-1f2328?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-1f2328?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Vercel](https://img.shields.io/badge/Vercel-1f2328?style=flat-square&logo=vercel&logoColor=white)
 
-### 🍳 [GastroAI](https://gastro-ai-pap.vercel.app/)
-Gastronomy web platform with an integrated AI chatbot powered by Google's Gemini API. Features an interactive recipe carousel from 10 countries and a culinary challenge system with 4 difficulty levels. Built with responsive design, GSAP/Anime.js animations and API fallback system. Final course project (PAP).
+## Contact
 
-`HTML5` `CSS3` `JavaScript` `Gemini API` `GSAP` `Anime.js`
-
-### 🚌 [Bus Lisbon](https://buslisbon.vercel.app/)
-Real-time bus tracking web app for Carris Metropolitana in Lisbon. Integrates with the official API for live route and vehicle position visualization across the Lisbon metropolitan area.
-
-`Vue.js` `React` `Carris Metropolitana API`
-
-### 🌐 [Portfolio](https://portfolio-kennedy-silva.vercel.app/)
-Personal website showcasing projects and skills, deployed on Vercel.
-
-`React` `Tailwind CSS` `Vercel`
-
-## 🎯 Experience
-
-### Technical Project Evaluator · Number Seven – Engineering & Systems, Lda · 1 year
-- Analyzed and evaluated **200+ student projects** in C# and C++
-- Created assessment spreadsheets and verified code quality and compliance
-- Produced detailed evaluation reports for each project reviewed
-
-### Development Intern · CINEL Lisbon · 600 hours · Remote
-- Built complete web management application (SuperShop) with ASP.NET
-- Developed REST APIs (AlunoApi) and client applications in React
-- Managed and optimized databases with SQL Server
-
-## 🎓 Education
-- **Professional Higher Education in Software Development** (ongoing) — ISTEC Lisbon · 2025-2027
-- **Secondary Education — Information Systems Management Technician** — Pedro Alexandrino · 2025
-
-## 🌍 Languages
-- 🇵🇹 Portuguese: Native
-- 🇬🇧 English: B1 (Intermediate)
-
-## 📫 Get in Touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennedy-silva-3b627b369)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kennedysilva2k22@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kennedy-silva.vercel.app/)
+[![Email](https://img.shields.io/badge/kennedysilva2k22@gmail.com-1f2328?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:kennedysilva2k22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1f2328?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjMEE2NkMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZD0iTTAgMS4xNDZDMCAuNTEzLjUyNiAwIDEuMTc1IDBoMTMuNjVDMTUuNDc0IDAgMTYgLjUxMyAxNiAxLjE0NnYxMy43MDhjMCAuNjMzLS41MjYgMS4xNDYtMS4xNzUgMS4xNDZIMS4xNzVDLjUyNiAxNiAwIDE1LjQ4NyAwIDE0Ljg1NHptNC45NDMgMTIuMjQ4VjYuMTY5SDIuNTQydjcuMjI1em0tMS4yLTguMjEyYy44MzcgMCAxLjM1OC0uNTU0IDEuMzU4LTEuMjQ4LS4wMTUtLjcwOS0uNTItMS4yNDgtMS4zNDItMS4yNDhTMi40IDMuMjI2IDIuNCAzLjkzNGMwIC42OTQuNTIxIDEuMjQ4IDEuMzI3IDEuMjQ4em00LjkwOCA4LjIxMlY5LjM1OWMwLS4yMTYuMDE2LS40MzIuMDgtLjU4Ni4xNzMtLjQzMS41NjgtLjg3OCAxLjIzMi0uODc4Ljg2OSAwIDEuMjE2LjY2MiAxLjIxNiAxLjYzNHYzLjg2NWgyLjQwMVY5LjI1YzAtMi4yMi0xLjE4NC0zLjI1Mi0yLjc2NC0zLjI1Mi0xLjI3NCAwLTEuODQ1LjctMi4xNjUgMS4xOTN2LjAyNWgtLjAxNmwuMDE2LS4wMjVWNi4xNjloLTIuNGMuMDMuNjc4IDAgNy4yMjUgMCA3LjIyNXoiLz48L3N2Zz4=)](https://www.linkedin.com/in/kennedy-silva-3b627b369)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1f2328?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-kennedy-silva.vercel.app/)
