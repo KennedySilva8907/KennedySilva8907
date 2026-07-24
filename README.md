@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="Kennedy Silva — Fullstack Developer, Lisboa">
+  <img src="readme-header.svg" width="100%" alt="Kennedy Silva — Fullstack Developer, Lisboa">
 </div>
 
 ### `$ cat about.md`
