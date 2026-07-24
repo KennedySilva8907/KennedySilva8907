@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kennedysilva8907/kennedysilva8907/main/assets/header.svg" width="100%" alt="Kennedy Silva — Fullstack Developer, Lisboa">
+  <img src="assets/header.svg" width="100%" alt="Kennedy Silva — Fullstack Developer, Lisboa">
 </div>
 
 ### `$ cat about.md`
