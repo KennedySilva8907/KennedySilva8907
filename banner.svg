@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" width="1000" height="400" role="img" aria-labelledby="t d">
+  <title id="t">Kennedy Silva — Fullstack Developer</title>
+  <desc id="d">A code editor window typing out a C# class: Kennedy Silva, fullstack developer in Lisbon, Portugal. Stack: C#, ASP.NET Core, React. Status: open to work. Three apps in production, 400+ code reviews.</desc>
+
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .ln   { fill: #484F58; font-size: 19px; }
+    .cd   { font-size: 21px; }
+    .kw   { fill: #FF7B72; }
+    .ty   { fill: #79C0FF; }
+    .id   { fill: #D2A8FF; }
+    .st   { fill: #A5D6FF; }
+    .cm   { fill: #8B949E; font-style: italic; }
+    .pl   { fill: #C9D1D9; }
+    .tab  { fill: #8B949E; font-size: 17px; }
+  </style>
+
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#1F3864"/>
+      <stop offset="55%"  stop-color="#2D4A7C"/>
+      <stop offset="100%" stop-color="#1F3864"/>
+    </linearGradient>
+
+    <clipPath id="c0"><rect x="96" y="86"  width="0" height="30"><animate attributeName="width" values="0;0;880;880;0;0" keyTimes="0;0.050;0.117;0.900;0.930;1" dur="13s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c1"><rect x="96" y="124" width="0" height="30"><animate attributeName="width" values="0;0;880;880;0;0" keyTimes="0;0.125;0.192;0.900;0.930;1" dur="13s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c2"><rect x="96" y="162" width="0" height="30"><animate attributeName="width" values="0;0;880;880;0;0" keyTimes="0;0.200;0.267;0.900;0.930;1" dur="13s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c3"><rect x="96" y="200" width="0" height="30"><animate attributeName="width" values="0;0;880;880;0;0" keyTimes="0;0.275;0.342;0.900;0.930;1" dur="13s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c4"><rect x="96" y="238" width="0" height="30"><animate attributeName="width" values="0;0;880;880;0;0" keyTimes="0;0.350;0.417;0.900;0.930;1" dur="13s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c5"><rect x="96" y="276" width="0" height="30"><animate attributeName="width" values="0;0;880;880;0;0" keyTimes="0;0.425;0.492;0.900;0.930;1" dur="13s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c6"><rect x="96" y="314" width="0" height="30"><animate attributeName="width" values="0;0;880;880;0;0" keyTimes="0;0.500;0.567;0.900;0.930;1" dur="13s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+
+  <rect x="8" y="8" width="984" height="384" rx="16" fill="url(#edge)"/>
+  <rect x="10" y="10" width="980" height="380" rx="15" fill="#0D1117"/>
+
+  <circle cx="44" cy="42" r="7" fill="#FF5F57"/>
+  <circle cx="68" cy="42" r="7" fill="#FEBC2E"/>
+  <circle cx="92" cy="42" r="7" fill="#28C840"/>
+  <text x="124" y="48" class="mono tab">KennedySilva.cs</text>
+  <line x1="26" y1="64" x2="974" y2="64" stroke="#21262D" stroke-width="1"/>
+
+  <g class="mono ln">
+    <text x="46" y="110">1</text><text x="46" y="148">2</text><text x="46" y="186">3</text>
+    <text x="46" y="224">4</text><text x="46" y="262">5</text><text x="46" y="300">6</text>
+    <text x="46" y="338">7</text>
+  </g>
+
+  <g class="mono cd">
+    <g clip-path="url(#c0)"><text x="96" y="110" class="cm">// 3 apps in production · 400+ tests written</text></g>
+    <g clip-path="url(#c1)"><text x="96" y="148"><tspan class="kw">public class</tspan><tspan class="id"> KennedySilva</tspan><tspan class="pl"> : </tspan><tspan class="ty">IFullstackDeveloper</tspan></text></g>
+    <g clip-path="url(#c2)"><text x="96" y="186" class="pl">{</text></g>
+    <g clip-path="url(#c3)"><text x="144" y="224"><tspan class="kw">public string</tspan><tspan class="id"> Location</tspan><tspan class="pl"> =&gt; </tspan><tspan class="st">"Lisbon, Portugal"</tspan><tspan class="pl">;</tspan></text></g>
+    <g clip-path="url(#c4)"><text x="144" y="262"><tspan class="kw">public string</tspan><tspan class="pl">[]</tspan><tspan class="id"> Stack</tspan><tspan class="pl"> =&gt; [</tspan><tspan class="st">"C#"</tspan><tspan class="pl">, </tspan><tspan class="st">"ASP.NET Core"</tspan><tspan class="pl">, </tspan><tspan class="st">"React"</tspan><tspan class="pl">];</tspan></text></g>
+    <g clip-path="url(#c5)"><text x="144" y="300"><tspan class="kw">public string</tspan><tspan class="id"> Status</tspan><tspan class="pl"> =&gt; </tspan><tspan class="st">"Open to work"</tspan><tspan class="pl">;</tspan></text></g>
+    <g clip-path="url(#c6)"><text x="96" y="338" class="pl">}</text></g>
+  </g>
+
+  <rect x="112" y="318" width="11" height="26" fill="#79C0FF">
+    <animate attributeName="opacity" values="0;0;1;1;0;1;0;1;0;1" keyTimes="0;0.560;0.567;0.62;0.66;0.72;0.76;0.82;0.86;1" dur="13s" repeatCount="indefinite"/>
+  </rect>
+</svg>
